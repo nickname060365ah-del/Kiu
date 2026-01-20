@@ -17,4 +17,4 @@ playsound note.harp @initiator[scores={m=..19}]
 tellraw @initiator[scores={m=..19}] {"rawtext":[{"text":" §eคนขายของ§r: §cซื้อไม่สำเร็จ§r"}]}
 
 (และต่อไป …)
-</div>
+</pre>
